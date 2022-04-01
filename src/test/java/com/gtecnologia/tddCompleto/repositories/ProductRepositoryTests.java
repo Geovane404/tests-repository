@@ -13,7 +13,7 @@ import com.gtecnologia.tddCompleto.entities.Product;
 import com.gtecnologia.tddCompleto.entities.Factory.Factory;
 
 
-//TESTES||COMPONENTES RELACIONADOS AO SPRING DATA JPA||VALIDAR METODOS DO MEU REPOSITÓRIO:
+//TESTES||COMPONENTES RELACIONADOS AO SPRING DATA JPA||VALIDAR METODOS DO PRODUCT_REPOSITÓRIO:
 @DataJpaTest
 public class ProductRepositoryTests {
 
